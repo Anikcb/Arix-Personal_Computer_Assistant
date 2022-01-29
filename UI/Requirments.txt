@@ -1,0 +1,33 @@
+
+-------------------Python Package----------------------
+
+(First check Python packages in your PC -> Open CMD -> pip freeze)
+
+
+sys
+PyQt5
+speech_recognition
+PyDictionary
+pywikihow
+pyttsx3 
+socket
+datetime
+wikipedia 
+webbrowser
+pywhatkit
+pyautogui
+pyjokes
+keyboard
+playsound
+os
+
+
+
+
+
+
+
+
+
+
+
